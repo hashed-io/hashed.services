@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/infrastructure.svg').default,
     description: (
       <>
-        Development and deployment of layer 1 or layer 2 technologies; off-the-shelf components or custom-built
+        Development and deployment of layer 1 or layer 2 technologies; off-the-shelf components or custom to your configuration
       </>
     ),
   },
