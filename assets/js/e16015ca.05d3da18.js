@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhashed_services=self.webpackChunkhashed_services||[]).push([[700],{5688:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
